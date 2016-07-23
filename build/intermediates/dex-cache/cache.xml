@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_2ac37eacef982890342e96c12d2a15c8b38e25eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-xml\1.17.0-rc\62de2de564686d5ae4be9191d7728dfe30c79790\google-api-client-xml-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="62de2de564686d5ae4be9191d7728dfe30c79790">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-xml-1.17.0-rc_d770314cd66903529c2900a1ae30a85ad2868751\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_2f3058b2ba56d4a32ab8716a59c9a1d490c71481\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_4fe42c9018401c34deeff3b229282c2846fcf2eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-drive\v2-rev105-1.17.0-rc\7d1d979d0b0baa67cd00495317ccf46c050c1c25\google-api-services-drive-v2-rev105-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7d1d979d0b0baa67cd00495317ccf46c050c1c25">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-drive-v2-rev105-1.17.0-rc_9808d974dfabe9451a0a82a97cf8745f57df95ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_9222de4d6d10f6828285d9a03f8f36a70d705c1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_788735ad0414124a177c6b276e79d1f29ea0c13e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="40ebc20716bbf2f3e5fc1bca44b5b860c86adb16">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15443b3cce06b8f6709e38d0f37906f3972130d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-xml\1.17.0-rc\ed8ce02cd8c41305af41ea475c61b3cf57ac8552\google-http-client-xml-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ed8ce02cd8c41305af41ea475c61b3cf57ac8552">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-xml-1.17.0-rc_1dce7063b1bbc6b91e3a48a0322b4d96ee24b3ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.17.0-rc\3696033c14cc5ce68fe3ac818bade2707df9c2cd\google-http-client-gson-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="3696033c14cc5ce68fe3ac818bade2707df9c2cd">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-gson-1.17.0-rc_140c8821455544a3ab0feff25cfccdadbbe27865\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_8f97781226ec1a368d2d237fe38f302f7dd3e1c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_e71af0aa3e7da9e6b10de8f96fd53d6b4741512b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_9ab3351520615161e14e3dcd1cbceb6bc78ad99f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_8e588f1213f6cec3f5ae6ee174ac83a0e3f53ba4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_668bd9eac1350189cfdf29e5eec109df712918b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_d157a79e2efc7492003f63078fb221dc5095bd02\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_e876433f6ac2871b1c1d3fbeff528b09b9e8687f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_2e1e91079fe49c22a614d3baa9828c51b2ad6a50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_3011654cd26eae37609b9d176da3eeeb8df59d08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_c5c754c8400e68539c36ff8164692381c1fad031\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_3c7cd06d1d468388369a94e4107db0e0918caa5b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_534b6a1e381338c20082d582164645685c018ed2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_4b3098ac62990b2bef1d65c5cd44f5eaa7ef80be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_7b27a582de86371ae37cc7d6427769ae4bcbb83a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.17.0-rc\f01974c9ec3e5570d8c75ecf7fce004e06757e03\google-api-client-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f01974c9ec3e5570d8c75ecf7fce004e06757e03">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.17.0-rc_a96fcc2d37df696fad11c45cd98ad5c930362963\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_50d0420912137ccd98f277e6e241486b3cf4b356\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_61b7ebf4d77a7f915db40796455b5b0d8771eabd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="358f1d086e3063c34dffe395ad447b6784238bfa">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e7eab703902bcd1ee47579e2adc957c700aee9f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.17.0-rc\f3fc9acc57c2a55fd17a421710f564b73dabda21\google-http-client-android-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f3fc9acc57c2a55fd17a421710f564b73dabda21">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.17.0-rc_598dcab0bcadd6ab8894e540249c7adcb6b78818\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.17.0-rc\cfef30e5d361e2fd2892eed93a183db48dcae153\google-api-client-android-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="cfef30e5d361e2fd2892eed93a183db48dcae153">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.17.0-rc_046c24f233935eea279877db2d0429f7ebdf2ff8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_4a3b2e2aa02e8a8b81193c68cb47f673322e6cc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_769c78718d568a7620535515856165ee4308e1d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_e84a949ef3164b691239553f54cebca47f06d88f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3227e6073bb66806c0064c39610d1a28715d2140\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_fea5d0163940cf7eef692399cb1e9da8bb4ba49e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_d50590e14f83fb599c58f50a1790a65bc5eacf87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_aa00bc3cc20d3455f714575f7df13fe6ef5fd74a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.17.0-rc\76bcfba455c5a053d532bbac2cf30a2b2c341cf3\google-oauth-client-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="76bcfba455c5a053d532bbac2cf30a2b2c341cf3">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.17.0-rc_e0ec921c7533e51275adbf0a3ffc23179cd049bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Amita\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.17.0-rc\637da6cca16f4a97c4771137bce02e7c291e67af\google-http-client-1.17.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="637da6cca16f4a97c4771137bce02e7c291e67af">
+        <dex dex="C:\Users\Amita\Downloads\Digits Beta5\Digits Beta3\Digits Beta2\Digits Beta\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.17.0-rc_67711fa671aab5ef36bf3551f025c561fdfdb803\classes.dex" />
+    </item>
+
+</items>

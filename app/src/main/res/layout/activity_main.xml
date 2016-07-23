@@ -1,0 +1,71 @@
+
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:background="@drawable/home_gradient"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+    android:nestedScrollingEnabled="true"
+    android:id="@+id/fullScreenLayout">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="4"
+        android:rowCount="10"
+        android:horizontalSpacing="0dp"
+        android:verticalSpacing="0dp"
+
+        android:id="@+id/grid"
+        android:useDefaultMargins="false"
+        android:touchscreenBlocksFocus="false"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/chronometer">
+    </GridLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:textColor="#FF000000"
+        android:background="@drawable/button_digit"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:textSize="20dp"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone" />
+
+    <Chronometer
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chronometer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="10dp"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/chronometer" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imageView2"
+        android:layout_toEndOf="@+id/imageView2"
+        android:columnCount="1"
+        android:id="@+id/circlesgrid"
+        android:rowCount="10"
+        android:layout_below="@+id/chronometer"></GridLayout>
+
+</RelativeLayout>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright (C) 2013 Google Inc.
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+      http://www.apache.org/licenses/LICENSE-2.0
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_gradient">
+
+    <!-- SIGN-IN SCREEN -->
+    <LinearLayout android:id="@+id/screen_sign_in" style="@style/LLScreen">
+        <TextView style="@style/GameTitle"
+            android:visibility="gone"/>
+        <TextView style="@style/GameBlurb"
+            android:visibility="gone"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:scaleY="0.7"
+            android:scaleX="0.7"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/hero"/>
+
+        <!--<Button android:id="@+id/button_single_player"
+            android:background="@drawable/button_text"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_width="wrap_content"
+            android:textColor="#00ff9e"
+            android:text="@string/single_player" />-->
+        <com.google.android.gms.common.SignInButton android:id="@+id/button_sign_in"
+            style="@style/SignInButton" />
+    </LinearLayout>
+
+    <!-- MAIN SCREEN -->
+    <LinearLayout android:id="@+id/screen_main" style="@style/LLScreen">
+
+    <!--
+    <Button android:id="@+id/button_single_player_2"
+        android:background="@drawable/button_text"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:fontFamily="assets/font.otf"
+        android:layout_marginBottom="35dp"
+        android:layout_width="wrap_content"
+        android:textColor="#00ff9e"
+        android:text="Single Player" />
+         -->
+
+    <ml.digits.ButtonAwesome android:id="@+id/button_quick_game"
+        android:background="@drawable/button_text"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:layout_width="wrap_content"
+            android:textColor="#00ff9e"
+        android:text="@string/play_icon" />
+
+    <Button android:id="@+id/button_invite_players"
+        style="@style/MainScreenButton"
+        android:visibility="gone"
+        android:text="@string/invite_players" />
+    <TextView style="@style/MainScreenButtonBlurb"
+        android:text="@string/invite_players_explanation"
+        android:visibility="gone"/>
+    <Button android:id="@+id/button_see_invitations"
+        style="@style/MainScreenButton"
+        android:visibility="gone"
+        android:text="@string/see_invitations" />
+    <TextView style="@style/MainScreenButtonBlurb"
+        android:visibility="gone"
+        android:text="@string/see_invitations_explanation" />
+
+
+    <ml.digits.ButtonAwesome android:id="@+id/button_view_leaderboard"
+        android:background="@drawable/button_text"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="45dp"
+        android:layout_width="wrap_content"
+        android:textColor="#00ff9e"
+        android:text="@string/leaderboard_icon" />
+
+    <ml.digits.ButtonAwesome android:id="@+id/button_sign_out"
+        android:background="@drawable/button_text"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:layout_width="wrap_content"
+        android:textColor="#00ff9e"
+        android:text="@string/signout_icon" />
+
+
+    <ml.digits.ButtonAwesome android:id="@+id/toHome"
+        android:background="@drawable/button_text"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:layout_width="wrap_content"
+        android:textColor="#00ff9e"
+        android:text="@string/home_icon" />
+
+</LinearLayout>
+
+<!-- INVITATION POPUP -->
+    <LinearLayout android:id="@+id/invitation_popup" style="@style/InvPopup">
+        <TextView android:id="@+id/incoming_invitation_text" style="@style/InvPopupText" />
+        <Button android:id="@+id/button_accept_popup_invitation"
+            style="@style/InvPopupButton"
+            android:text="@string/accept_popup_invite" />
+    </LinearLayout>
+
+    <!-- "PLEASE WAIT" SCREEN -->
+    <LinearLayout android:id="@+id/screen_wait" style="@style/LLScreen">
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:indeterminate="true" />
+        <Space android:layout_width="0dp" android:layout_height="10dp"> </Space>
+        <TextView style="@style/Blurb" android:text="@string/please_wait" />
+    </LinearLayout>
+
+    <!-- Lose SCREEN -->
+    <RelativeLayout android:id="@+id/screen_lose" style="@style/LLScreen">
+        <TextView style="@style/Blurb" android:text="Your opponent has left the game."
+            android:id="@+id/theyleft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+
+    <!-- GAMEPLAY SCREEN -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp"
+        android:background="@drawable/home_gradient"
+        android:paddingBottom="0dp"
+        tools:context=".MainActivity"
+        android:nestedScrollingEnabled="true"
+        android:id="@+id/screen_game">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="4"
+            android:rowCount="10"
+            android:horizontalSpacing="0dp"
+            android:verticalSpacing="0dp"
+
+            android:id="@+id/grid"
+            android:useDefaultMargins="false"
+            android:touchscreenBlocksFocus="false"
+            android:layout_below="@+id/chronometer"
+            android:layout_centerHorizontal="true">
+        </GridLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:id="@+id/button"
+            android:layout_alignParentBottom="true"
+            android:textColor="#FF000000"
+            android:background="@drawable/button_digit"
+            android:paddingLeft="7dp"
+            android:paddingRight="7dp"
+            android:textSize="20dp"
+            android:layout_centerHorizontal="true"
+            android:visibility="gone" />
+
+        <Chronometer
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/chronometer"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff"
+            android:layout_marginRight="10dp"
+            android:textSize="20dp"
+            android:layout_alignParentTop="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:layout_below="@+id/chronometer"
+            android:layout_centerHorizontal="true" />
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/imageView2"
+            android:layout_toEndOf="@+id/imageView2"
+            android:columnCount="1"
+            android:id="@+id/circlesgrid"
+            android:rowCount="10"
+            android:layout_below="@+id/chronometer"></GridLayout>
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chronometer"
+            android:columnCount="1"
+            android:rowCount="10"
+            android:id="@+id/circlesgrid2"
+            android:layout_toLeftOf="@+id/imageView2"></GridLayout>
+
+    </RelativeLayout>
+
+
+
+
+</FrameLayout>

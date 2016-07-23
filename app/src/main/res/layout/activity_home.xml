@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_gradient"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:src="@drawable/hero"
+        android:layout_alignParentTop="false"
+        android:focusableInTouchMode="false"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/linearLayout">
+
+        <ImageButton
+            android:layout_width="150px"
+            android:layout_height="150px"
+            android:src="@drawable/instructions"
+            android:layout_below="@+id/play"
+            android:layout_alignBaseline="@+id/imageView3"
+            android:id="@+id/instructions"
+            android:background="@drawable/button_image"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter" />
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:id="@+id/space1" />
+
+        <ImageButton
+            android:layout_width="150px"
+            android:layout_height="150px"
+            android:src="@drawable/play"
+            android:layout_below="@+id/startGame"
+            android:layout_alignBaseline="@+id/imageView3"
+            android:id="@+id/play"
+            android:background="@drawable/button_image"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter" />
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:id="@+id/space2" />
+
+        <ImageButton
+            android:layout_width="150px"
+            android:layout_height="150px"
+            android:src="@drawable/multiplayer"
+            android:layout_below="@+id/startGame"
+            android:layout_alignBaseline="@+id/imageView3"
+            android:id="@+id/multiplayer"
+            android:background="@drawable/button_image"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/settings"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/setting"
+        android:scaleType="fitCenter"
+        android:background="@drawable/button_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="200dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp" />
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/share"
+        android:scaleType="fitCenter"
+        android:background="@drawable/button_image"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/share"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="BEST: 270"
+        android:id="@+id/best"
+        android:textColor="#00ACFF"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="110px"
+        android:textAlignment="gravity"
+        android:layout_alignParentTop="true" />
+
+
+
+
+</RelativeLayout>
+
+
+
+
